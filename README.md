@@ -44,10 +44,6 @@ YOLOv8 comes bundled with the following pre-trained models:
 
 * <strong>**Libraries Installation: Go to Terminal in windows > pip install package_name==version**</strong>
 
-<h2>Documentation:</h2>
-
-* Documentation Link: [Click Here](https://drive.google.com/drive/folders/1o_dnP3Hs1WSbIQcwozzGhLoHEcJdLK1r)
-
 
 <h2>Screenshots:</h2>
 
